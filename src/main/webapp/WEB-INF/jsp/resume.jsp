@@ -118,7 +118,7 @@
                 <div class="cbox black">
                     <h4>个人介绍</h4>
                     <p>
-                       ${resume.selfHobby}
+                       ${resume.selfIntroduce}
                     </p>
                 </div>
                 <div class="cbox black">
