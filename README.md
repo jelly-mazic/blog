@@ -11,4 +11,6 @@
    master-发布版本分支  
    resume-开发简历模块分支   
    blog-开发blog模块分支
+
+ ## 2.0 resume模块开发完成
    
